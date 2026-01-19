@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "curl -o index.html https://raw.githubusercontent.com/danebencedavid/dawn_placeholder/refs/heads/main/index.html"
+  }
+}
