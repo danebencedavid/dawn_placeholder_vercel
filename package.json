@@ -1,3 +1,7 @@
-"scripts": {
-  "build": "mkdir -p public && curl -o public/index.html https://raw.githubusercontent.com/danebencedavid/dawn_placeholder/main/index.html"
+{
+  "name": "dawn-placeholder-vercel",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "mkdir -p public && curl -o public/index.html https://raw.githubusercontent.com/danebencedavid/dawn_placeholder/main/index.html"
+  }
 }
