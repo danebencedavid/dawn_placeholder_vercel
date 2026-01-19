@@ -1,5 +1,3 @@
-{
-  "scripts": {
-    "build": "curl -o index.html https://raw.githubusercontent.com/danebencedavid/dawn_placeholder/refs/heads/main/index.html"
-  }
+"scripts": {
+  "build": "mkdir -p public && curl -o public/index.html https://raw.githubusercontent.com/danebencedavid/dawn_placeholder/main/index.html"
 }
